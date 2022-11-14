@@ -1,7 +1,8 @@
 -- Additional Plugins
 lvim.plugins = {
-	"nvim-treesitter/playground",
-	"nvim-treesitter/nvim-treesitter-textobjects",
+  "ellisonleao/gruvbox.nvim",
+  "nvim-treesitter/playground",
+  "nvim-treesitter/nvim-treesitter-textobjects",
   "p00f/nvim-ts-rainbow",
 	"mfussenegger/nvim-jdtls",
 	"karb94/neoscroll.nvim",
@@ -74,7 +75,7 @@ lvim.plugins = {
 		end,
 	},
 
-	-- https://github.com/jose-elias-alvarez/typescript.nvim
-	-- "rmagatti/auto-session",
-	-- "rmagatti/session-lens"
+  -- https://github.com/jose-elias-alvarez/typescript.nvim
+  -- "rmagatti/auto-session",
+  -- "rmagatti/session-lens"
 }
